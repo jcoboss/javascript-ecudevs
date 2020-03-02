@@ -1,0 +1,54 @@
+* {
+	text-align: right;
+	color: chartreuse;
+}
+
+p {
+	font-family: verdana;
+	font-size:  20px;
+	color: rgba(46, 240, 49, 0.89);
+}
+
+h1 {
+	background-color: darkblue;
+	color: white;
+}
+
+h1 {
+	color: cyan;
+}
+
+#lista {
+	color: tomato;
+	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+p.center {
+	color: violet;
+}
+
+div p.center.backblue {
+	color: rgb(68, 61, 97);
+	background: blue;
+}
+
+div.principal div.secundario p.center {
+	color: chocolate;
+}
+
+ul#lista {
+}
+
+h1,
+h2,
+p.center {
+	color: crimson;
+}
+
+/* * {
+            color: black;
+        } */
